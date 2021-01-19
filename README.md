@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Nick
+### Hi there 👋 I'm Nik
 
 - :ru: I live in Moscow, Russia
 - Most of the time I work with [1C Enterprise](https://1c-dn.com/)
