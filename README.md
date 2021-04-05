@@ -5,4 +5,4 @@ I'm Nik
 - Most of the time I work with [1C Enterprise](https://1c-dn.com/)
 - Currently learning Python and ML basics
 
-![1C Enterprise](https://img.shields.io/badge/-1C%20Enterprise-yellow)![Python](https://img.shields.io/badge/-Python-blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vavilovnv&hide=TeX&layout=compact)
