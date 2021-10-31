@@ -3,8 +3,9 @@ ___
 - ru I live in Moscow, Russia
 - 👨🏻‍💼 I'm a project manager 
 - 🔨 Most of the time I work with projects [![1C Enterprise](https://img.shields.io/badge/-1C%20Enterprise-yellow)](https://1c-dn.com/) 
-- 🔥 Trying ~~unsuccessfully~~ to improve my management skills
-- 📚 Currently learning ML basics & etc (as a hobby)
+- 📚 Trying to improve my management skills
+- 🔥 Also trying not to forget my hard skills
+- 🐍 Currently learning python & etc (as a hobby)
 
 <!---
 - 🤝 To contact [![Linkedin Badge](https://img.shields.io/badge/-vavilovnv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vavilovnv/)](https://www.linkedin.com/in/vavilovnv/)
