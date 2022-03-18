@@ -7,7 +7,7 @@ ___
 - 🔥 Also trying not to forget my hard skills
 - 🐍 Currently learning python & etc (as a hobby)
 
-❤️ Glory to Ukraine! Glory to the heroes!
+❤️ **Glory to Ukraine! Glory to the heroes!**
 
 <!---
 - 🤝 To contact [![Linkedin Badge](https://img.shields.io/badge/-vavilovnv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vavilovnv/)](https://www.linkedin.com/in/vavilovnv/)
