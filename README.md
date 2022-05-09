@@ -2,7 +2,7 @@
 ___
 - 👨🏻‍💼 I'm a former project manager 
 - 🔨 Most of the time I worked with 1C projects [![1C Enterprise](https://img.shields.io/badge/-1C%20Enterprise-yellow)](https://1c-dn.com/) 
-- 💻 Trying to improve my hard skills
+- 💻 Now trying to improve my hard skills
 - 📚 Also trying not to forget my management skills
 - 🐍 Currently learning Python & etc (as a hobby)
 
