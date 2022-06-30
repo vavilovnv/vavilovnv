@@ -1,7 +1,6 @@
 ### Hi there! 👋 
 ___
-- 👨🏻‍💼 I'm Nik  
-- 🐍 Python software developer
+👨‍💻 I'm Nik, software developer (Python, 1C)
 
 ✌️ **Peace to all!**
 
