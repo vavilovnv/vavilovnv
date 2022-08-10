@@ -1,6 +1,8 @@
 ### Hi there! 👋 
 ___
-👨‍💻 I'm Nik, software developer (Python, 1C)
+👨‍💻  I'm Nick, software developer (Python, 1C). Formerly a project manager.
+
+⚙️ 1C, Python, Django, DRM, Pandas, SQL
 
 ✌️ **Peace to all!**
 
