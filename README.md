@@ -1,7 +1,7 @@
 ### Hi there! 👋 
 ___
 
-⚙️ 1C, Python, Django, DRM, Pandas, SQL
+⚙️ 1C, Python, Django, DRM, Flask, Pandas, SQL
 
 ✌️ **Peace to all!**
 
