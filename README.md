@@ -1,6 +1,8 @@
 ### Hi there! 👋 
 ___
 
+💻 I'm Nik, Python backend developer.
+
 ⚙️ 1C, Python, Django, DRM, Flask, Pandas, SQL
 
 ✌️ **Peace to all!**
