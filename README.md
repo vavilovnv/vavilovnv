@@ -1,9 +1,9 @@
 ### Hi there! 👋 
 ___
 
-💻 I'm Nik, Python backend developer.
+👨‍💻 I'm Nik, Python backend developer.
 
-⚙️ 1C, Python, Django, DRM, Flask, FastAPI, Asyncio, Postgres and etc.
+💻 1C, Python, Django, DRM, Flask, FastAPI, Asyncio, Postgres and etc.
 
 ✌️ **Peace to all!**
 
