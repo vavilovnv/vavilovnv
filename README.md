@@ -1,11 +1,11 @@
 ### Hi there! 👋 
 ___
 
-👨‍💻 I'm Nik, Python backend developer.
+👨‍💻 I'm Nik, Python developer.
 
-💻 1C, Python, Asyncio, FastAPI, Flask, SQLAlchemy, Django, DRF, Selery, Redis, Postgres, Docker and etc.
+💻 Python, Asyncio, FastAPI, Flask, Django, DRF, Pytest, Selery, Redis, SQLAlchemy, Postgres, Docker, 1C and etc.
 
-✌️ **Peace to all!**
+✌️ **Peace, everybody!**
 
 <!---
 - 👨🏻‍💼 I'm Nick, software developer (Python, 1C). Formerly a project manager. 
