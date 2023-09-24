@@ -5,6 +5,8 @@ ___
 
 💻 Python, Asyncio, FastAPI, Flask, Django, DRF, Pytest, Selery, Redis, SQLAlchemy, Postgres, Docker, 1C and etc.
 
+Some of my pet projects and learning projects are collected here
+
 ✌️ **Peace, everybody!**
 
 <!---
