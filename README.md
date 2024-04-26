@@ -3,7 +3,7 @@ ___
 
 👨‍💻 I'm Nik, Python developer.
 
-💻 Python, Asyncio, FastAPI, Flask, Django, DRF, Pytest, Selery, Redis, SQLAlchemy, Postgres, Docker, 1C and etc.
+💻 Python, Asyncio, FastAPI, Flask, Django, DRF, Pytest, Selery, RabbitMQ, Redis, SAQ, SQLAlchemy, Postgres, Docker, 1C and etc.
 
 Some of my pet projects and learning projects are collected here
 
